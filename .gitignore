@@ -1,7 +1,11 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,pycharm,python,visualstudio,sublimetext,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,pycharm,python,visualstudio,sublimetext,venv
-
+*.csv
+*.xlsx
+*.png
+body.txt
+*.pdf
 ### macOS ###
 # General
 .DS_Store
